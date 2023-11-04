@@ -1,0 +1,14 @@
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\bin\Debug\net6.0\zadaniaTemat1.exe
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\bin\Debug\net6.0\zadaniaTemat1.deps.json
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\bin\Debug\net6.0\zadaniaTemat1.runtimeconfig.json
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\bin\Debug\net6.0\zadaniaTemat1.dll
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\bin\Debug\net6.0\zadaniaTemat1.pdb
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\zadaniaTemat1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\zadaniaTemat1.AssemblyInfoInputs.cache
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\zadaniaTemat1.AssemblyInfo.cs
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\zadaniaTemat1.csproj.CoreCompileInputs.cache
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\zadaniaTemat1.dll
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\refint\zadaniaTemat1.dll
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\zadaniaTemat1.pdb
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\zadaniaTemat1.genruntimeconfig.cache
+D:\Users\Łukasz\Visual\CHORZOW\zadaniaTemat1\obj\Debug\net6.0\ref\zadaniaTemat1.dll

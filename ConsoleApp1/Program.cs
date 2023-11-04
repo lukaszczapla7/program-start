@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Lukasz 2");
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, Lukasz 47");
+        int wynik=Dodawanie();
+        Console.WriteLine(wynik);
+        Console.WriteLine("4.11");
+    }
+
+    private static Int16 Dodawanie()
+    {
+        return 2 + 3;
+    }
+}
